@@ -1,0 +1,33 @@
+{
+  "basics":{
+    "photo":"sai.jpg",
+    "name":"shipra",
+    "email":"shiprareddy98@gmail.com",
+    "mobile":"9966630333"
+
+  },
+  "education":[
+    {
+      "course":"B.tech(Computer Science and Engineering)",
+        "college":[
+          "G Pullaiah College Of Engineering",
+          "2015-2019",
+          "70"]
+    },
+
+    {
+      "course":"Intermediate(MPC)",
+      "college":[
+        "Narayana college",
+        "2013-2015",
+        "90"]
+    },
+    {
+      "course":"SSC",
+      "college":[
+        "St.Joseph School",
+        "2013",
+        "80"]
+    }
+  ]
+}
